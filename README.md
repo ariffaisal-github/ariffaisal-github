@@ -18,11 +18,15 @@ A prompt marketplace to craft, sell, and buy prompts. Explore the exciting world
 
 ### [Programming-For-Kids](https://github.com/farhan19999/Programming-For-Kids)
 
-Contributing to open-source initiatives to empower young minds to embrace the world of coding.
+A Programming Learning platform for kids.
 
 ## 🎓 Education
 
 - BSc in Computer Science and Engineering, BUET
+
+## 📄 Resume
+
+Check out my detailed resume [here](https://github.com/ariffaisal-github/ariffaisal-github/blob/main/arif-faisal-resume.pdf).
 
 ## 🌱 Let's Connect!
 
@@ -31,4 +35,3 @@ Contributing to open-source initiatives to empower young minds to embrace the wo
 - [Portfolio](#)
 
 Feel free to reach out, and let's code the future together!
-
