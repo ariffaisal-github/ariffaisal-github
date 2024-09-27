@@ -4,11 +4,10 @@ I'm a passionate software developer and full-stack enthusiast currently pursuing
 
 ## 🚀 Tech Stack
 
-- **Languages:** JavaScript, Java, Python, C++, HTML5, CSS, TypeScript
-- **Frameworks:** Node.js, React.js, Next.js, Express.js
+- **Languages:** JavaScript, Java, Python, C++, HTML5, CSS
+- **Frameworks:** Node.js, React.js,Express.js
 - **Databases:** MongoDB, Oracle, SQL
-- **Tools:** AWS, Docker
-- **Specialties:** Full-stack development, mobile app development
+- **Specialties:** Full-stack development
 
 ## 💻 Projects
 
@@ -30,8 +29,7 @@ Check out my detailed resume [here](https://github.com/ariffaisal-github/ariffai
 
 ## 🌱 Let's Connect!
 
-- [LinkedIn](#) 
-- [Twitter](#) 
-- [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/arif-faisal-97976a1a7/)
+- [Twitter](https://x.com/_ariffaisal_) 
 
 Feel free to reach out, and let's code the future together!
