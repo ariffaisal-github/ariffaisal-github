@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Arif Faisal]{https://arif-softwaredev.vercel.app}!
+# 👋 Hi there, I'm [Arif Faisal](https://arif-softwaredev.vercel.app)!
 
 I'm a passionate software developer and full-stack enthusiast currently pursuing my BSc in Computer Science and Engineering at BUET. As a tech-savvy individual, I thrive on building innovative solutions across various technologies.
 
