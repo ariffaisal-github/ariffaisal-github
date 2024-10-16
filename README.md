@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arif Faisal!
+# 👋 Hi there, I'm [Arif Faisal]{https://arif-softwaredev.vercel.app}!
 
 I'm a passionate software developer and full-stack enthusiast currently pursuing my BSc in Computer Science and Engineering at BUET. As a tech-savvy individual, I thrive on building innovative solutions across various technologies.
 
@@ -25,10 +25,11 @@ A Programming Learning platform for kids.
 
 ## 📄 Resume
 
-Check out my detailed resume [here](https://github.com/ariffaisal-github/ariffaisal-github/blob/main/arif-faisal-resume.pdf).
+Check out my detailed resume [here](https://github.com/ariffaisal-github/Resume/blob/main/arif-resume.pdf).
 
 ## 🌱 Let's Connect!
 
+- [Facebook](https://www.facebook.com/arif.faisal.1004)
 - [LinkedIn](https://www.linkedin.com/in/arif-faisal-97976a1a7/)
 - [Twitter](https://x.com/_ariffaisal_) 
 
